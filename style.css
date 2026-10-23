@@ -25,3 +25,23 @@ h2 {
 p {
     margin-bottom: 1.5rem;
 }
+
+a {
+    color: #2a5db0;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    color: #d43f8d;
+    text-decoration: underline;
+}
+
+ul,
+ol {
+    margin-bottom: 1.5rem;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
